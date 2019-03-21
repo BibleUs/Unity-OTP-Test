@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "467643843916",
+    "firebase_url": "https://test-7fb57.firebaseio.com",
+    "project_id": "test-7fb57",
+    "storage_bucket": "test-7fb57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467643843916:android:ef0678a7fac0567f",
+        "android_client_info": {
+          "package_name": "com.nihal.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467643843916-a5ebbumrrc4ntd3vllcs6hmjb1575ndf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIGNFQgiOptfSyzKPXAfotBLQupS2PE0U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
